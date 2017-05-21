@@ -1844,6 +1844,7 @@ a.callbacks1_s3.active,a.callbacks1_s3:focus{
     padding: 2em 1em;
     margin-left: 5px;
     width: 24.5%;
+    height: 250px;
 }
 .about-team-grids img {
 	width: 100%;
